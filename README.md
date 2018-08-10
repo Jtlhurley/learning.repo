@@ -1,2 +1,3 @@
 # learning.repo
-First repo
+
+Welcome to my first ever repository on Github!! 
